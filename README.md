@@ -1,6 +1,6 @@
 # Roblox Tycoon System
 
-![Tycoon System Logo](url_to_logo.png)
+![Tycoon System Logo]() Coming soon
 
 ## Table of Contents
 - [Introduction](#introduction)
